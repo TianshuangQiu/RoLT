@@ -1,0 +1,33 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+
+# Dependency directories
+env/
+lib/
+bin/
+*.txt
+*.tar
+
+# Build files
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs
+*.log
+
+# Miscellaneous
+*.swp
+.DS_Store
+
+wandb/
+*.pth
